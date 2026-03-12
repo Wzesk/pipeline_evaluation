@@ -1,0 +1,14 @@
+Metric,Value
+RMSE — local ref (m),16.33
+MAE — local ref (m),14.30
+Bias — local ref (m),0.60
+Std Dev — local ref (m),16.31
+90th %ile — local ref (m),24.96
+95th %ile — local ref (m),28.68
+Max Error — local ref (m),45.39
+RMSE — global ref (m),17.32
+MAE — global ref (m),15.22
+N observations,127.00
+N points per shoreline,200.00
+Mean Hausdorff to OSM ref (m),48.65
+Median Hausdorff to OSM ref (m),48.11

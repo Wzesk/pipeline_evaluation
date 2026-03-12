@@ -1,0 +1,12 @@
+Metric,Value
+RMSE — local ref (m),38.10
+MAE — local ref (m),33.37
+Bias — local ref (m),3.88
+Std Dev — local ref (m),37.90
+90th %ile — local ref (m),55.58
+95th %ile — local ref (m),66.58
+Max Error — local ref (m),84.90
+RMSE — global ref (m),38.10
+MAE — global ref (m),33.37
+N observations,10.00
+N points per shoreline,200.00
